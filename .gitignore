@@ -1,0 +1,8 @@
+.env
+.env.*
+yarn-error.log
+
+dist
+build
+uploads
+node_modules
